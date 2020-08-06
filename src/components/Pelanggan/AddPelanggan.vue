@@ -32,7 +32,7 @@
 	export default {
 		name: 'TambahPelanggan',
 		data: () => ({
-			items: ['Pesanan 1', 'Pesanan 2', 'Pesanan 3', 'Pesanan 4'],
+			items: ['WhatsApp', 'Call', 'Email'],
 			code: ['+62', '+63', '+64', '+65'],
 			form: {},
 			DB_NAME: 'kue',
